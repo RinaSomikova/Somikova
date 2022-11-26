@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+print("У меня нет решений 2.1.1, потому что Вася с Алёной оказались слишком сложными :с")
